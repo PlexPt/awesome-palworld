@@ -122,6 +122,12 @@ https://github.com/KirosHan/Palworld-server-protector
 
 UID通常为Steam Id开头的十六进制UUID长度id 
 
+### 非官方修复
+
+目前官方的服务端非常吃内存，下面这个仓库尝试修复
+
+https://github.com/VeroFess/PalWorld-Server-Unoffical-Fix
+
 ### 坏档修复
 
 由于目前存档容易坏，参考下面的修复工具
