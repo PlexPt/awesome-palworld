@@ -159,7 +159,11 @@ https://github.com/cheahjs/palworld-save-tools
 最后一件事儿，如果进游戏之后建了基地想要退出公会，一定要三思 不要制造垃圾
 补充说明如果你把你的基地建在一个孤立无援的山峰上面，敌袭是打不到你的 ，好像只会飞行系的（虽然这游戏的敌袭轻轻松松就可以应对）
 
+### 配种
 
+配种表和计算器
+
+https://docs.qq.com/sheet/DT05PeVVoekZiamlh?tab=000001
 
 ### 其他可能有用的链接
 
