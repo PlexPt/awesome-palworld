@@ -90,6 +90,8 @@ docker logs -f pal
 
 ### 配置文件修改
 
+可视化的配置文件修改
+
 https://github.com/knva/PalWorld_server_config
 
 建议设置
@@ -158,4 +160,8 @@ https://github.com/cheahjs/palworld-save-tools
 补充说明如果你把你的基地建在一个孤立无援的山峰上面，敌袭是打不到你的 ，好像只会飞行系的（虽然这游戏的敌袭轻轻松松就可以应对）
 
 
+
+### 其他可能有用的链接
+
+https://github.com/jammsen/docker-palworld-dedicated-server
 
