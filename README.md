@@ -165,3 +165,8 @@ https://github.com/cheahjs/palworld-save-tools
 
 https://github.com/jammsen/docker-palworld-dedicated-server
 
+
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-palworld&type=Date)](https://star-history.com/#PlexPt/awesome-chatgpt-prompts-zh&Date)
