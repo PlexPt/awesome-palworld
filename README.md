@@ -169,9 +169,16 @@ https://github.com/cheahjs/palworld-save-tools
 
 https://docs.qq.com/sheet/DT05PeVVoekZiamlh?tab=000001
 
+### 互动地图
+
+帕鲁群岛 - 幻兽帕鲁互动地图
+https://map.caimogu.cc/palworld/paru_islands.html
+
 ### 其他可能有用的链接
 
 https://github.com/jammsen/docker-palworld-dedicated-server
+
+https://github.com/zaigie/palworld-server-tool
 
 
 
