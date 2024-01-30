@@ -178,7 +178,13 @@ https://map.caimogu.cc/palworld/paru_islands.html
 
 https://github.com/jammsen/docker-palworld-dedicated-server
 
+在线玩家列表
+
 https://github.com/zaigie/palworld-server-tool
+
+存档转移完全教程
+
+https://github.com/GalileoFe/PalWorld-Save-Movement-Complete-Tutorio
 
 
 
