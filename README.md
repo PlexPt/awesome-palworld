@@ -190,4 +190,4 @@ https://github.com/GalileoFe/PalWorld-Save-Movement-Complete-Tutorio
 
 # Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-palworld&type=Date)](https://star-history.com/#PlexPt/awesome-chatgpt-prompts-zh&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-palworld&type=Date)](https://star-history.com/#PlexPt/awesome-palworld&Date)
