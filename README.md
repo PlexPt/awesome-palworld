@@ -173,6 +173,10 @@ https://github.com/cheahjs/palworld-save-tools
 
 https://docs.qq.com/sheet/DT05PeVVoekZiamlh?tab=000001
 
+1.0 版本配种/战斗计算器：配对计算、反向查询、配种路径规划、各工作最佳帕鲁（全部 44,850 组配对与游戏数据验证一致；纯网页，本地运行，无需上传） / Palworld 1.0 breeding & combat calculator, validated against all 44,850 pairs, runs fully client-side
+
+https://palcalc-tools.github.io/palworld-1.0-calculator/
+
 ### 互动地图
 
 帕鲁群岛 - 幻兽帕鲁互动地图
