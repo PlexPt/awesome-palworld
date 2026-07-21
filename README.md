@@ -177,6 +177,10 @@ https://docs.qq.com/sheet/DT05PeVVoekZiamlh?tab=000001
 
 https://palcalc-tools.github.io/palworld-1.0-calculator/
 
+Palforge：交互式配种图谱、全 299 帕鲁图鉴、被动技能遗传概率（已对照游戏全部 44,851 行配种表验证；免费、无广告、无需注册） / Palforge — interactive breeding-graph explorer, full 299-pal Paldex, and passive-inheritance odds, validated against the game's full 44,851-row breeding table; free, ad-free, no account needed
+
+https://palforge.app
+
 ### 互动地图
 
 帕鲁群岛 - 幻兽帕鲁互动地图
