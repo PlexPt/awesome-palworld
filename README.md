@@ -200,6 +200,13 @@ https://github.com/GalileoFe/PalWorld-Save-Movement-Complete-Tutorio
 
 
 
+
+
+### 国际社区资源 / International Resources
+
+- [Palworld Guides](https://palworldguides.xyz/) — Palworld tier lists, base builds, Pal breeding chains, and boss strategies.
+- [Awesome Palworld (EN)](https://github.com/zxml7777777/awesome-palworld) — Curated list of Palworld resources in English.
+
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-palworld&type=Date)](https://star-history.com/#PlexPt/awesome-palworld&Date)
